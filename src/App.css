@@ -1,0 +1,43 @@
+#copy{
+    background-color: rgb(17, 17, 234);
+    font-style: italic;
+    text-align: center;
+    color: white;
+    border-end-start-radius: 50%;
+    border-start-end-radius: 50%;
+    cursor: pointer;
+    column-rule-color: black;
+    
+}
+#container{
+    height: auto;
+    width: max-content;
+    justify-content: center;
+    border: 5px solid black;
+    align-items: center;
+    margin:auto;
+    margin-top: 15%;
+    
+
+}
+.input-button{
+    justify-content: center;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.input{
+    color: red;
+    margin-right: 1;
+
+}
+.copy{
+    border-radius: 50%;
+}
+#range-length{
+    justify-content: center;
+    padding:5% 10% ;
+}
+#length{
+    margin: 5% 10%;
+}
